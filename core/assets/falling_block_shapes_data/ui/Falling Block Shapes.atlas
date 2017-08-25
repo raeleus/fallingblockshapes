@@ -1,0 +1,103 @@
+
+Falling Block Shapes.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button-down
+  rotate: false
+  xy: 325, 447
+  size: 116, 56
+  split: 22, 19, 22, 16
+  pad: 10, 11, 5, 5
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 135, 121
+  size: 116, 56
+  split: 22, 19, 22, 16
+  pad: 10, 11, 5, 5
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+editor-grid
+  rotate: false
+  xy: 325, 345
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 44
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 179
+  size: 322, 324
+  orig: 322, 324
+  offset: 0, 0
+  index: -1
+play-grid
+  rotate: false
+  xy: 443, 453
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+scroll-h
+  rotate: false
+  xy: 325, 222
+  size: 41, 24
+  split: 11, 11, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+scroll-v
+  rotate: false
+  xy: 1, 1
+  size: 24, 41
+  split: 0, 0, 12, 11
+  pad: 0, 0, 0, 0
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 253, 147
+  size: 47, 30
+  split: 2, 2, 2, 2
+  pad: 4, 4, 2, 2
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 427, 444
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 325, 248
+  size: 95, 95
+  split: 8, 8, 8, 8
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+window2
+  rotate: false
+  xy: 135, 24
+  size: 95, 95
+  split: 8, 8, 8, 8
+  pad: 10, 10, 11, 11
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

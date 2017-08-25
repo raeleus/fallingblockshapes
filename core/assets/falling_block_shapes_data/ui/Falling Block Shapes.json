@@ -1,0 +1,176 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	title: {
+		file: font-title-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	blue: {
+		r: 0
+		g: 0
+		b: 1
+		a: 1
+	}
+	green: {
+		r: 0
+		g: 1
+		b: 0
+		a: 1
+	}
+	orange: {
+		r: 1
+		g: 0.5185555
+		b: 0
+		a: 1
+	}
+	over: {
+		r: 0
+		g: 0.8088887
+		b: 1
+		a: 1
+	}
+	pink: {
+		r: 1
+		g: 0.74666667
+		b: 0.74666667
+		a: 1
+	}
+	purple: {
+		r: 0.44761086
+		g: 0
+		b: 1
+		a: 1
+	}
+	red: {
+		r: 1
+		g: 0
+		b: 0
+		a: 1
+	}
+	stage-background: {
+		r: 0
+		g: 0
+		b: 0
+		a: 0.78431374
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	yellow: {
+		r: 1
+		g: 1
+		b: 0
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	stage-background: {
+		name: white
+		color: stage-background
+	}
+	over: {
+		name: white
+		color: over
+	}
+	black: {
+		name: white
+		color: black
+	}
+	red: {
+		name: white
+		color: red
+	}
+	purple: {
+		name: white
+		color: purple
+	}
+	blue: {
+		name: white
+		color: blue
+	}
+	green: {
+		name: white
+		color: green
+	}
+	yellow: {
+		name: white
+		color: yellow
+	}
+	pink: {
+		name: white
+		color: pink
+	}
+	orange: {
+		name: white
+		color: orange
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		font: font
+		fontColor: white
+		checkedFontColor: black
+		over: over
+		checked: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	title: {
+		font: title
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		hScrollKnob: scroll-h
+		vScrollKnob: scroll-v
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		up: button-up
+		down: button-down
+	}
+	color-chooser: {
+		font: font
+		over: over
+		checked: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: black
+		background: textfield
+		cursor: black
+		selection: over
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window2
+		titleFont: font
+		stageBackground: stage-background
+	}
+}
+}

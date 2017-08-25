@@ -1,0 +1,48 @@
+
+falling-block-shapes.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lr
+  rotate: true
+  xy: 103, 114
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+lr-big
+  rotate: false
+  xy: 103, 136
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+tetromino
+  rotate: false
+  xy: 1, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+tetromino-big
+  rotate: false
+  xy: 1, 114
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ul
+  rotate: false
+  xy: 183, 191
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+ul-big
+  rotate: false
+  xy: 1, 28
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
